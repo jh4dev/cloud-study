@@ -6,6 +6,7 @@
 
 # Build output
 /build/
+.gradle/
 
 # IDE-specific files
 .idea/
